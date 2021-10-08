@@ -5,8 +5,8 @@
 //  Created by Вова Пупкин on 01.10.2021.
 //
 
-import XCTest
 @testable import Hellokit
+import XCTest
 
 class HellokitTests: XCTestCase {
 
