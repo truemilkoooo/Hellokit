@@ -64,10 +64,6 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="TiY-1R-FiI"/>
-                    <connections>
-                        <outlet property="myImageView" destination="PHI-Bo-fl0" id="6wO-Ig-xJq"/>
-                        <outlet property="myTextView" destination="JhA-3D-TcN" id="fR6-y2-MgF"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

@@ -7,13 +7,6 @@
 
 import UIKit
 class ViewController: UIViewController {
-    
-    var myImageView = UIImageView()
-
-    //@IBOutlet weak var myTextView: UITextField!
-    
-    
-    //@IBOutlet var myImageView: UIImageView!
 
     override func viewDidLoad() {
     super.viewDidLoad()
